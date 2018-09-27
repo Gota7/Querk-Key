@@ -1,0 +1,10 @@
+C:\Users\samsp\Documents\C#\Querk\Querk\bin\Debug\Querk.exe.config
+C:\Users\samsp\Documents\C#\Querk\Querk\bin\Debug\Querk.exe
+C:\Users\samsp\Documents\C#\Querk\Querk\bin\Debug\Querk.pdb
+C:\Users\samsp\Documents\C#\Querk\Querk\obj\Debug\Querk.csprojAssemblyReference.cache
+C:\Users\samsp\Documents\C#\Querk\Querk\obj\Debug\Querk.Properties.Resources.resources
+C:\Users\samsp\Documents\C#\Querk\Querk\obj\Debug\Querk.csproj.GenerateResource.cache
+C:\Users\samsp\Documents\C#\Querk\Querk\obj\Debug\Querk.csproj.CoreCompileInputs.cache
+C:\Users\samsp\Documents\C#\Querk\Querk\obj\Debug\Querk.exe
+C:\Users\samsp\Documents\C#\Querk\Querk\obj\Debug\Querk.pdb
+C:\Users\samsp\Documents\C#\Querk\Querk\obj\Debug\Querk.MainWindow.resources
